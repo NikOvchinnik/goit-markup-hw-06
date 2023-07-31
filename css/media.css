@@ -214,6 +214,11 @@
 
   .footer-input {
     width: 264px;
+    margin-bottom: 0px;
+  }
+
+  .footer-form-btn {
+    margin: 0;
   }
 
   /* Portfolio */
